@@ -1,5 +1,7 @@
 # All Invoice
 ## Invoicing Application
+![snap-all_invoice](https://github.com/Charlibb/all-invoice/assets/81753538/8e93edf4-3b26-4c88-b171-30aaaaff0ea9)
+
 
 This is a web application designed for effortless management of invoices – developed using the  MERN stack technology. Here, you have the ability to create, save, and send PDF invoices for the services you provide to your customers, all within a personalized account. 
 
@@ -41,3 +43,4 @@ After cloning repository, run npm install in both folder.
 
   
 ####  Run npm start in both folder and you are ready to go!
+
